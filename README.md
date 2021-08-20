@@ -29,6 +29,10 @@ Will add marketcap info for token integrations in next the patch.
 
 Will add circulating Supply
 
+We will add top 20 holders
+
+Dashboard to track earnings be impmented before end of year
+
 We will be spending some time community testing the wallet to prepare it for distro.
 
 Will add LP value
