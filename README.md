@@ -8,45 +8,48 @@ Work in Progress(Testable)
 INSTRUCTIONS
 
 
-1. CREATE A WALLET.
+1. CREATION OF A WALLET.
 
 2. STORE SEED PHRASE IN A SAFE PLACE!
 
-3. LOAD IT WITH A SMALL AMOUNT OF ETH(.0005 IS PLENTY).
+3. LOAD IT WITH A SMALL AMOUNT OF BNB(.01 IS PLENTY).
 
 4. LOAD IT WITH A SMALL AMOUNT OF THE TOKEN SELECTED IN THE WALLET TO ACTIVATE FUNCTION.
 
 
-6/10/2019
+20/08/2021
 
 Test Version Ready!
 
 Added new tokens and integrations as well as a new hyperlink interface.  
 
-Still having some issues with iOS and some browsers, solutions for iOS have been discovered and will be added this year.
+iOS and some browsers having issues but working on them, solutions for iOS have been discovered and will be added within few months.
 
 Will add marketcap info for token integrations in next the patch.
 
+Will add circulating Supply
+
 We will be spending some time community testing the wallet to prepare it for distro.
 
+Will add LP value
 
-12/26/2018
+20/08/2021
 
 Several bug fixes and addition of several features. We will be updating this readme to be more precise soon. Sorry We enjoyed our holidays and forgot to update this =X
 
-11/23/2018 
+20/08/2021 
 
 Added Etherscan Functionability for User Wallets
 
-Adjusted lower limits for gas consumption to require .00025 eth for wallet operation(Down from .00033)
+Adjusted lower limits for gas consumption to require .01 BNB for wallet operation
 
 
 
-11/17/2018
+20/08/2021
 
 NOTES
 
-Fund the Wallet with $A and a small amount of ether(.0005 will do) or it will not work correctly
+Fund the Wallet with $A and a small amount of BNB(.01 will do) or it will not work correctly
 
 Some browsers do not function well with the use of this Dapp
 
@@ -54,13 +57,13 @@ Some browsers do not function well with the use of this Dapp
 
 iOS users will gain functionality in the next patch(We hope)
 
-Also for the next patch...Additional ERC20 tokens...Possibly the in-wallet exchange as well
+Also for the next patch...Additional BEP20 tokens...Possibly the in-wallet exchange as well
 
 We will be adding a setting to adjust gwei in the next patch as well!
 
 Details.
 
-If you do not have an ERC20 wallet you can create one(Stores all ERC20s)
+If you do not have an BEP20 wallet you can create one(Stores all ERC20s)
 
 Gas prices default to the LOWEST settings via the ethereum network
 
