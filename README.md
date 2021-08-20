@@ -1,6 +1,6 @@
 BabyAliceWallet
 
-VERSION 1.1
+VERSION 2.0
 
 Work in Progress(Testable)
 
@@ -63,9 +63,9 @@ We will be adding a setting to adjust gwei in the next patch as well!
 
 Details.
 
-If you do not have an BEP20 wallet you can create one(Stores all ERC20s)
+If you do not have an BEP20 wallet you can create one(Stores all BEP20s)
 
-Gas prices default to the LOWEST settings via the ethereum network
+Gas prices default to the LOWEST settings via the Binance smart chain network
 
 
 Please note there are no limits in place at this time. We will soon add more complexity to protect our users...but if you enter in incorrect inputs for the Address/Amount This can cause loss of funds!
