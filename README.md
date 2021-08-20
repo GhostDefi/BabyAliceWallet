@@ -1,4 +1,4 @@
-Alpha Wallet
+BabyAliceWallet
 
 VERSION 1.1
 
